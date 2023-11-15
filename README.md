@@ -50,7 +50,7 @@ ___
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronvdberg/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0x8Anon)
 [![join community on Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ked8Bsuf7F)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dushyantkm15
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0x8anon
 )
 [![leetcode](https://img.shields.io/badge/leetcode-lightyellow?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/0x8anon
 )
@@ -59,7 +59,7 @@ ___
 
 <h2>🏆 Github Profile Trophy</h2>
 <a href="">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=dushyantkm15
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=0x8anon
 &column=8&theme=algolia&no-frame=true"/>
 </a>
 
