@@ -43,8 +43,6 @@ ___
 ### 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronvdberg/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aaronvdberg)
-[![join community on Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ked8Bsuf7F)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaronvdberg
 )
 [![leetcode](https://img.shields.io/badge/leetcode-lightyellow?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/aaronvdberg
@@ -63,6 +61,3 @@ ___
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-
-### 🐍 Watch Snake eating my contribution:
-![snake svg](https://github.com/spyder15/spyder15/blob/output/github-contribution-grid-snake.svg)
