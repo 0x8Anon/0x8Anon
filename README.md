@@ -10,7 +10,7 @@ Hi, I'm Aaron Van Den Berg , A programmer, cyber security and Mr Robot fanatic. 
 
 
 
-[![0x8anon github activity graph](https://activity-graph.herokuapp.com/graph?username=0x8anon&theme=react-dark)](https://github.com/aaronvdberg)
+[![aaronvdberg github activity graph](https://activity-graph.herokuapp.com/graph?username=aaronvdberg&theme=react-dark)](https://github.com/aaronvdberg)
 
 
 ### 📊 Some Fun Stats:
