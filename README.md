@@ -17,7 +17,7 @@ Hi, I'm Aaron Van Den Berg , A programmer, cyber security and Mr Robot fanatic. 
 | ![image](https://github-readme-stats.vercel.app/api?username=0x8anon&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0x8anon&theme=midnight-purple) | 
 | --- | --- |
 😍 Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/0x8anon/count.svg) |
+![Visitor Count](https://profile-counter.glitch.me/aaronvdberg/count.svg) |
 
 ### 😺 Github Streak 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0x8anon&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
