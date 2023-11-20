@@ -8,13 +8,8 @@
 
 Hi, I'm Aaron Van Den Berg , A programmer, cyber security and Mr Robot fanatic. I am currently studying at ALX Africa(https://www.alxafrica.com/). I am passionate about technology and want to learn & explore new technologies. I am a very creative person and my hobbies include design and video editing. 
 
-
-
-[![aaronvdberg github activity graph](https://activity-graph.herokuapp.com/graph?username=aaronvdberg&theme=react-dark)](https://github.com/aaronvdberg)
-
-
 ### 📊 Some Fun Stats:
-| ![image](https://github-readme-stats.vercel.app/api?username=0x8anon&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0x8anon&theme=midnight-purple) | 
+| ![image](https://github-readme-stats.vercel.app/api?username=aaronvdberg&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronvdberg&theme=midnight-purple) | 
 | --- | --- |
 😍 Total Views on Profile:<br><br>
 ![Visitor Count](https://profile-counter.glitch.me/aaronvdberg/count.svg) |
