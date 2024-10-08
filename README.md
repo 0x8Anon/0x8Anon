@@ -1,6 +1,5 @@
 ## Hello, I'm [Aaron](https://aaronvandenberg.com) 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
-    
+
 ### 📊 Some Fun Stats:
 | ![image](https://github-readme-stats.vercel.app/api?username=aaronvdberg&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronvdberg&theme=midnight-purple) | 
 | --- | --- |
