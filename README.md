@@ -12,24 +12,4 @@ I am a Cyber Security student at Eduvos and currently serve as a Security Analys
 ![Visitor Count](https://profile-counter.glitch.me/aaronvdberg/count.svg) |
 
 
-### 🤝 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronvdberg/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaronvdberg
-)
-[![leetcode](https://img.shields.io/badge/leetcode-lightyellow?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/aaronvdberg
-)
-
-
-
-<h2>🏆 Github Profile Trophy</h2>
-<a href="">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=aaronvdberg
-&column=8&theme=algolia&no-frame=true"/>
-</a>
-
-
-
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
 
